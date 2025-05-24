@@ -9,7 +9,7 @@
 <body>
     <h1>フォーム入力</h1>
 
-    <form action="conform.php" method="post">
+    <form action="confirm.php" method="post">
       <label>名前: <input type="text" name="name" required></label><br>
       <label>年齢: <input type="number" name="age" required></label><br>
       <label>電話番号: <input type="text" name="phone" required></label><br>
